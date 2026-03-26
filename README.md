@@ -65,3 +65,8 @@ flowchart LR
   - the dataset path is hard-coded to a local Windows folder
   - there is no inference-only script or notebook for generating faces from a saved model
   - the previous README contained only the project name and no useful documentation
+
+## Supporting Docs
+- [Architecture diagram](docs/architecture.png)
+- [Evaluation logs and outputs](docs/evaluation.md)
+- [Sample inputs and outputs](docs/sample_io.md)
