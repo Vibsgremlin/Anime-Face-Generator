@@ -1,14 +1,11 @@
 # Sample Inputs and Outputs
 
-## Sample input
-- A local image folder of anime face images referenced by the script
+## Example files
+- `examples/training_config.json`
+- `examples/output_artifacts.txt`
+- `outputs/training_log.txt`
 
-## Sample outputs
-- `fake_samples_epoch_1.png`
-- `fake_samples_epoch_2.png`
-- `generator.pth`
-
-## Sample flow
-```text
-Load images -> train GAN -> export epoch samples -> save generator weights
-```
+## What these show
+- the hyperparameter shape used by the training script
+- the expected generated artifacts after training
+- a representative GAN training log

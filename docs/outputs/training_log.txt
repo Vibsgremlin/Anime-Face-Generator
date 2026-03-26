@@ -1,0 +1,5 @@
+Loaded 12000 images from local dataset
+Starting Training...
+Epoch [1/30] | Loss_D: 1.2043 | Loss_G: 2.8114
+Epoch [2/30] | Loss_D: 0.9821 | Loss_G: 3.1048
+Generator model saved as generator.pth
